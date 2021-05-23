@@ -16,7 +16,10 @@ function GridItem(props) {
                             {props.item.place}
                         </Typography>
                         <Typography>
-                            {props.item.price}
+                            ${props.item.price}
+                        </Typography>
+                        <Typography>
+                            Best time to go: {props.item.timeToGo}
                         </Typography>
                     </CardContent>
                     <CardActions>

@@ -24,7 +24,7 @@ const App = () => {
                             Choose your vacation spot
                         </Typography>
                         <Typography variant="h5" align="center" color="textSecondary" paragraph>
-                            Here I test out my React skills with the Material UI front end library for React. 
+                            Here I test out my React skills with the Material UI front end library for React and map through an array of data. 
                         </Typography>
                     </Container>
                 </div>
